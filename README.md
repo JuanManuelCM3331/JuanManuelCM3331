@@ -23,7 +23,7 @@
 <br>
 - 🎯 Enfocado en mejorar como desarrollador FrontEnd.<br>
 - 🛠️ Me gusta resolver problemas reales con software, automatizar tareas y aprender del campo.<br>
-- 📚 Actualmente y constantemente aprendiendo nuevas tecnologias.<br>
+- 📚 Constantemente aprendiendo nuevas tecnologias.<br>
 - 👍 Siguiendo buenas practicas como desarrollador.<br>
 </br>
 
