@@ -4,7 +4,7 @@
 
 <!--Titulo con typing animation-->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hola,+soy+Juan+Manuel+Cardona+Molina+👋;Desarrollador+en+formación;Apasionado+por+la+tecnología" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hola,+soy+Juan+Manuel+Cardona+Molina+👋;Desarrollador+en+formación;Apasionado+por+el+desarrollo+web" />
 </div>
 
 <!--divider-->
@@ -15,7 +15,7 @@
 <!--Sobre mi-->
 <div align="center">
   <h2>🧠 Sobre mí</h2>
-  <img src="https://img.shields.io/badge/Focus-Backend-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-FronEnd-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-Everyday-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Passion-Tech-orange?style=for-the-badge"/>
 </div>
@@ -41,13 +41,26 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanManuelCM3331&repo=SistemaInventario_StockManager&theme=tokyonight" />
+  <a href="https://github.com/Fernandozapa26/SistemaInventario_StockManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fernandozapa26&repo=SistemaInventario_StockManager&theme=tokyonight" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/JuanManuelCM3331/Proyecto-Mv">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanManuelCM3331&repo=Proyecto-Mv&theme=tokyonight" />
+  </a>
 </div>
 
 - 📦 **SistemaInventario_StockManager**  
   🔹 Aplicación de escritorio para gestión de inventario  
   🔹 Desarrollado en C# (Windows Forms)  
   🔹 Integración con base de datos  
+
+- ⚕️ **Proyecto-Mv**  
+  🔹 Aplicación web estructurada bajo el patrón Modelo-Vista (MV)  
+  🔹 Desarrollo con tecnologías web (HTML, CSS, JavaScript)  
+  🔹 Organización del código basada en separación de responsabilidades  
+  🔹 Integración con base de datos para manejo de información  
 
 - 🔧 Más proyectos en desarrollo...
 
