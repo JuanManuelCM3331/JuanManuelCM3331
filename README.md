@@ -19,14 +19,14 @@
   <img src="https://img.shields.io/badge/Learning-Developing-darkgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Passion-VideoGames-darkred?style=for-the-badge"/>
 </div>
-'
 
-- 🎯 Enfocado en mejorar como desarrollador FrontEnd.
-- 🛠️ Me gusta resolver problemas reales con software, automatizar tareas y aprender del campo.
-- 📚 Actualmente y constantemente aprendiendo nuevas tecnologias.
-- 👍 Siguiendo buenas practicas como desarrollador.
+<br>
+- 🎯 Enfocado en mejorar como desarrollador FrontEnd.<br>
+- 🛠️ Me gusta resolver problemas reales con software, automatizar tareas y aprender del campo.<br>
+- 📚 Actualmente y constantemente aprendiendo nuevas tecnologias.<br>
+- 👍 Siguiendo buenas practicas como desarrollador.<br>
+</br>
 
-'
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanManuelCM3331&layout=compact&theme=tokyonight" />
 </p>
