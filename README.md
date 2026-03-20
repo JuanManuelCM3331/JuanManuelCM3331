@@ -47,9 +47,9 @@
 </div>
 
 - 📦 **SistemaInventario_StockManager**  
-  🔹 Aplicación de escritorio para gestión de inventario.
-  🔹 Desarrollado en C# (Windows Forms). 
-  🔹 Integración con base de datos.
+  <br>🔹 Aplicación de escritorio para gestión de inventario.</br>
+  <br>🔹 Desarrollado en C# (Windows Forms). </br>
+  <br>🔹 Integración con base de datos.</br>
   
     <div align="center">
   <a href="https://github.com/Fernandozapa26/SistemaInventario_StockManager">
@@ -58,10 +58,10 @@
 </div>
 
 - ⚕️ **Proyecto-Mv**  
-  🔹 Aplicación web estructurada bajo el patrón Modelo-Vista (MV).
-  🔹 Desarrollo con tecnologías web (HTML, CSS, JavaScript). 
-  🔹 Organización del código basada en separación de responsabilidades. 
-  🔹 Integración con base de datos para manejo de información.
+  <br>🔹 Aplicación web estructurada bajo el patrón Modelo-Vista (MV).</br>
+  <br>🔹 Desarrollo con tecnologías web (HTML, CSS, JavaScript).</br> 
+  <br>🔹 Organización del código basada en separación de responsabilidades. </br>
+  <br>🔹 Integración con base de datos para manejo de información.</br>
 
 
   <div align="center">
