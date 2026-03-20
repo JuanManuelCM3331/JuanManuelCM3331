@@ -2,9 +2,9 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--Titulo-->
+<!--Titulo con typing animation-->
 <div align="center">
-  <h1>Hola, soy Juan Manuel Cardona Molina 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hola,+soy+Juan+Manuel+Cardona+Molina+👋;Desarrollador+en+formación;Apasionado+por+la+tecnología" />
 </div>
 
 <!--divider-->
@@ -15,6 +15,9 @@
 <!--Sobre mi-->
 <div align="center">
   <h2>🧠 Sobre mí</h2>
+  <img src="https://img.shields.io/badge/Focus-Backend-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Everyday-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Passion-Tech-orange?style=for-the-badge"/>
 </div>
 
 - 🎯 Enfocado en mejorar como desarrollador backend  
@@ -35,6 +38,10 @@
 <!--divider-->
 <div align="center">
   <h2>🚀 Proyectos Destacados</h2>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanManuelCM3331&repo=SistemaInventario_StockManager&theme=tokyonight" />
 </div>
 
 - 📦 **SistemaInventario_StockManager**  
@@ -59,40 +66,21 @@
 </p>
 
 <!--divider-->
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">
-        Tecnologias que conozco y utilizo👨🏻‍💻
-      </h2>
-    </summary>
-  </ul>
+<div align="center">
+  <h2>⚡ Tecnologias que conozco y utilizo 👨🏻‍💻</h2>
 </div>
 
-<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,express,figma,github,nextjs,nodejs,react,tailwind,vscode&perline=14" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,express,figma,github,nextjs,nodejs,react,tailwind,vscode&perline=9" />
 </p>
 
-<!--asddddddddddddddddddddddddddd-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h2 style="display: inline-block">
-        Lenguajes de Programacionℹ️
-      </h2>
-    </summary>
-  </ul>
+<!--divider-->
+<div align="center">
+  <h2>💻 Lenguajes de Programacion ℹ️</h2>
 </div>
 
-<!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,html,js,mongodb,mysql,py&perline=20"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,css,html,js,mongodb,mysql,py&perline=7"/>
 </p>
 
 <!--divider-->
@@ -105,6 +93,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanManuelCM3331&theme=tokyonight" />
 </p>
 
+<!--snake animation-->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JuanManuelCM3331/JuanManuelCM3331/output/snake.svg" />
+</div>
+
 <!--divider-->
 <div align="center">
   <h2>🤝 Contacto</h2>
@@ -112,20 +105,20 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/juan-manuel-cardona-molina-b0958a311/" target="blank">
-  <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="100" width="100" />
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
 
 <!--visitas-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=juanmanuel&icon=3&color=6)](https://visitcount.itsvg.in)
+<img src="https://visitcount.itsvg.in/api?id=juanmanuel&icon=5&color=12" />
 
 </div>
-
 
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+<img src="https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6" />
+
+</div>
