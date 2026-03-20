@@ -19,11 +19,17 @@
   <img src="https://img.shields.io/badge/Learning-Developing-darkgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Passion-VideoGames-darkred?style=for-the-badge"/>
 </div>
+'
 
 - 🎯 Enfocado en mejorar como desarrollador backend  
 - 🛠️ Me gusta resolver problemas reales con software  
 - 📚 Actualmente aprendiendo buenas prácticas de desarrollo  
 - 🎮 Interesado en videojuegos y tecnología  
+
+'
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanManuelCM3331&layout=compact&theme=tokyonight" />
+</p>
 
 <!--divider-->
 <div align="center">
@@ -40,27 +46,28 @@
   <h2>🚀 Proyectos Destacados</h2>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Fernandozapa26/SistemaInventario_StockManager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fernandozapa26&repo=SistemaInventario_StockManager&theme=tokyonight" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://github.com/JuanManuelCM3331/Proyecto-Mv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanManuelCM3331&repo=Proyecto-Mv&theme=tokyonight" />
-  </a>
-</div>
-
 - 📦 **SistemaInventario_StockManager**  
   🔹 Aplicación de escritorio para gestión de inventario  
   🔹 Desarrollado en C# (Windows Forms)  
   🔹 Integración con base de datos  
+  
+    <div align="center">
+  <a href="https://github.com/Fernandozapa26/SistemaInventario_StockManager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fernandozapa26&repo=SistemaInventario_StockManager&theme=tokyonight" />
+  </a>
+</div>
 
 - ⚕️ **Proyecto-Mv**  
   🔹 Aplicación web estructurada bajo el patrón Modelo-Vista (MV)  
   🔹 Desarrollo con tecnologías web (HTML, CSS, JavaScript)  
   🔹 Organización del código basada en separación de responsabilidades  
   🔹 Integración con base de datos para manejo de información  
+
+  <div align="center">
+  <a href="https://github.com/JuanManuelCM3331/Proyecto-Mv">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanManuelCM3331&repo=Proyecto-Mv&theme=tokyonight" />
+  </a>
+</div>
 
 - 🔧 Más proyectos en desarrollo...
 
@@ -73,10 +80,6 @@
 - [ ] Aprender arquitectura de software  
 - [ ] Crear una aplicación completa con base de datos  
 - [ ] Contribuir a proyectos en GitHub  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanManuelCM3331&layout=compact&theme=tokyonight" />
-</p>
 
 <!--divider-->
 <div align="center">
