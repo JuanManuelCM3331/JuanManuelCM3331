@@ -21,10 +21,10 @@
 </div>
 '
 
-- 🎯 Enfocado en mejorar como desarrollador backend  
-- 🛠️ Me gusta resolver problemas reales con software  
-- 📚 Actualmente aprendiendo buenas prácticas de desarrollo  
-- 🎮 Interesado en videojuegos y tecnología  
+- 🎯 Enfocado en mejorar como desarrollador FrontEnd.
+- 🛠️ Me gusta resolver problemas reales con software, automatizar tareas y aprender del campo.
+- 📚 Actualmente y constantemente aprendiendo nuevas tecnologias.
+- 👍 Siguiendo buenas practicas como desarrollador.
 
 '
 <p align="center">
@@ -37,9 +37,8 @@
 </div>
 
 - 🔭 Trabajando en: **Aplicaciones de escritorio con C# (.NET)**  
-- 🌱 Aprendiendo: **Bases de datos, Git avanzado y arquitectura de software**  
-- 🗄️ Experiencia en: **SQL (MySQL / SQL Server)**  
-- 💬 Pregúntame sobre: **C#, WinForms, Git, bases de datos**  
+- 🌱 Aprendiendo: **PHP (laravel), C#(.NET) y JAVA**  
+- 🗄️ Experiencia en: **python, javascript, html, css, mongodb, MySQL y git**  
 
 <!--divider-->
 <div align="center">
@@ -47,9 +46,9 @@
 </div>
 
 - 📦 **SistemaInventario_StockManager**  
-  🔹 Aplicación de escritorio para gestión de inventario  
-  🔹 Desarrollado en C# (Windows Forms)  
-  🔹 Integración con base de datos  
+  🔹 Aplicación de escritorio para gestión de inventario.
+  🔹 Desarrollado en C# (Windows Forms). 
+  🔹 Integración con base de datos.
   
     <div align="center">
   <a href="https://github.com/Fernandozapa26/SistemaInventario_StockManager">
@@ -58,10 +57,10 @@
 </div>
 
 - ⚕️ **Proyecto-Mv**  
-  🔹 Aplicación web estructurada bajo el patrón Modelo-Vista (MV)  
-  🔹 Desarrollo con tecnologías web (HTML, CSS, JavaScript)  
-  🔹 Organización del código basada en separación de responsabilidades  
-  🔹 Integración con base de datos para manejo de información  
+  🔹 Aplicación web estructurada bajo el patrón Modelo-Vista (MV).
+  🔹 Desarrollo con tecnologías web (HTML, CSS, JavaScript). 
+  🔹 Organización del código basada en separación de responsabilidades. 
+  🔹 Integración con base de datos para manejo de información.
 
   <div align="center">
   <a href="https://github.com/JuanManuelCM3331/Proyecto-Mv">
@@ -76,10 +75,11 @@
   <h2>📈 Objetivos 2026</h2>
 </div>
 
-- [ ] Dominar C# y .NET  
-- [ ] Aprender arquitectura de software  
-- [ ] Crear una aplicación completa con base de datos  
-- [ ] Contribuir a proyectos en GitHub  
+- [ ] Aprender C# y .NET para el desarrollo de apliaciones.
+- [ ] Aprender PHP y su framework: laravel, para el desarrollo web BackEnd.  
+- [ ] Aprender a integrar bases de datos a proyectos de distintos lenguajes.
+- [ ] Terminar mi proyecto MV.
+- [ ] Aprender a desarrollar con JAVA, incluyendo la POO y sus caracteristicas.
 
 <!--divider-->
 <div align="center">
