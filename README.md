@@ -7,11 +7,6 @@
   <h1>Hola, soy Juan Manuel Cardona Molina 👋</h1>
 </div>
 
-<!--frase-->
-<div align="center">
-  <h3>💡 "Aprender a programar es aprender a resolver problemas, no solo escribir código."</h3>
-</div>
-
 <!--divider-->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
