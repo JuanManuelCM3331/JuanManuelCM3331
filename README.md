@@ -63,6 +63,7 @@
   🔹 Organización del código basada en separación de responsabilidades. 
   🔹 Integración con base de datos para manejo de información.
 
+
   <div align="center">
   <a href="https://github.com/JuanManuelCM3331/Proyecto-Mv">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanManuelCM3331&repo=Proyecto-Mv&theme=tokyonight" />
