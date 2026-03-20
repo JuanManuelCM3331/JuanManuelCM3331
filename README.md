@@ -15,9 +15,9 @@
 <!--Sobre mi-->
 <div align="center">
   <h2>🧠 Sobre mí</h2>
-  <img src="https://img.shields.io/badge/Focus-FronEnd-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Learning-Everyday-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Passion-Tech-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-FrontEnd-darkblue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-Developing-darkgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Passion-VideoGames-darkred?style=for-the-badge"/>
 </div>
 
 - 🎯 Enfocado en mejorar como desarrollador backend  
