@@ -106,11 +106,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanManuelCM3331&theme=tokyonight" />
 </p>
 
-<!--snake animation-->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/JuanManuelCM3331/JuanManuelCM3331/output/snake.svg" />
-</div>
-
 <!--divider-->
 <div align="center">
   <h2>🤝 Contacto</h2>
@@ -118,20 +113,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/juan-manuel-cardona-molina-b0958a311/" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin" />
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="100" width="100" />
 </a>
 </p>
-
-<!--visitas-->
-<div align="center">
-  
-<img src="https://visitcount.itsvg.in/api?id=juanmanuel&icon=5&color=12" />
-
-</div>
-
-<!--profile visit count-->
-<div align="center">
-  
-<img src="https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6" />
-
-</div>
