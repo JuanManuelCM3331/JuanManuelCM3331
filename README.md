@@ -54,6 +54,10 @@
 - [ ] Crear una aplicación completa con base de datos  
 - [ ] Contribuir a proyectos en GitHub  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
+
 <!--divider-->
 <!--h1 without bottom border-->
 <div id="user-content-toc">
