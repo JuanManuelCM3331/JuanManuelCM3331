@@ -60,12 +60,40 @@
 - [ ] Contribuir a proyectos en GitHub  
 
 <!--divider-->
-<div align="center">
-  <h2>👨🏻‍💻 Tecnologías que uso</h2>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">
+        Tecnologias que conozco y utilizo👨🏻‍💻
+      </h2>
+    </summary>
+  </ul>
 </div>
 
+<!--tech stack icons-->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,git,github,mysql,vscode&perline=10" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,express,figma,github,html,java,js,mongodb,mysql,nextjs,nodejs,py,react,tailwind,vscode&perline=14" />
+  </a>
+</p>
+
+<!--asddddddddddddddddddddddddddd-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary>
+      <h2 style="display: inline-block">
+        Lenguajes de Programacionℹ️
+      </h2>
+    </summary>
+  </ul>
+</div>
+
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,html,js,mongodb,mysql,py&perline=20"/>
+  </a>
 </p>
 
 <!--divider-->
