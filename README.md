@@ -4,7 +4,7 @@
 
 <!--Titulo con typing animation-->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hola,+soy+Juan+Manuel+Cardona+Molina+👋;Desarrollador+en+formación;Apasionado+por+el+desarrollo+web" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=¡Hola,+soy+Juan!+👋;Desarrollador+en+formación;Apasionado+por+el+desarrollo+web" />
 </div>
 
 <!--divider-->
