@@ -38,7 +38,8 @@
 
 - 🔭 Trabajando en: **Aplicaciones de escritorio con C# (.NET)**  
 - 🌱 Aprendiendo: **PHP (laravel), C#(.NET) y JAVA**  
-- 🗄️ Experiencia en: **python, javascript, html, css, mongodb, MySQL y git**  
+- 🗄️ Experiencia en: **python, javascript, html, css, mongodb, MySQL y git** 
+- 🖥️ Utilizando de manera activa los frameworks: **Tailwind (CSS), React y/o Angular (JavaScript), Django y/o Flask(Python)**
 
 <!--divider-->
 <div align="center">
