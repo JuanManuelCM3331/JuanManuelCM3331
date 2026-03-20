@@ -55,7 +55,7 @@
 - [ ] Contribuir a proyectos en GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanManuelCM3331&layout=compact&theme=tokyonight" />
 </p>
 
 <!--divider-->
