@@ -116,17 +116,20 @@
   <h2>🤝 Contacto</h2>
 </div>
 
+<div align="center">
+  <a><strong>Correo</strong>: Juanma3331@gmail.com</a>
+</div><br>
+<div align="center">
+  <a><strong>Numero</strong>: +57 312 864 7249</a>
+</div><br>
 <p align="center">
 <a href="https://www.linkedin.com/in/juan-manuel-cardona-molina-b0958a311/" target="blank">
   <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="100" width="100" />
 </a>
-<a href="#correo" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Gmail-Dark.svg" height="100" width="100" />
-  <p id="correo">juanma3331@gmail.com</p>
-</a>
-<a href="https://tuweb.com" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/909/909212.png" height="100" width="100" color=blue />
+<a href="https://www.linkedin.com/in/juan-manuel-cardona-molina-b0958a311/" target="blank">
+  <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="100" width="100" />
 </a>
 </p>
+
 
 
