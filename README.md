@@ -52,8 +52,8 @@
   🔹 Integración con base de datos.<br>
   
     <div align="center">
-  <a href="https://github.com/Fernandozapa26/SistemaInventario_StockManager">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fernandozapa26&repo=SistemaInventario_StockManager&theme=tokyonight" />
+  <a href="link del proyecto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=usuario del que tiene el repo&repo= nombredelrepo &theme=tokyonight" />
   </a>
 </div>
 
