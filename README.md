@@ -46,17 +46,6 @@
   <h2>🚀 Proyectos Destacados</h2>
 </div>
 
-- 📦 **SistemaInventario_StockManager**  
-  🔹 Aplicación de escritorio para gestión de inventario.<br>
-  🔹 Desarrollado en C# (Windows Forms). <br>
-  🔹 Integración con base de datos.<br>
-  
-    <div align="center">
-  <a href="https://github.com/Fernandozapa26/R_Stock_inventario">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fernandozapa26&repo=Inventario_finalR&theme=tokyonight" />
-  </a>
-</div>
-
 - ⚕️ **Proyecto-Mv**  
   🔹 Aplicación web estructurada bajo el patrón Modelo-Vista (MV).<br>
   🔹 Desarrollo con tecnologías web (HTML, CSS, JavaScript).<br> 
