@@ -21,10 +21,10 @@
 </div>
 
 <br>
-- 🎯 Enfocado en mejorar como desarrollador FrontEnd.<br>
+- 🎯 Enfocado en mejorar como desarrollador web.<br>
 - 🛠️ Me gusta resolver problemas reales con software, automatizar tareas y aprender del campo.<br>
 - 📚 Constantemente aprendiendo nuevas tecnologias.<br>
-- 👍 Siguiendo buenas practicas como desarrollador.<br>
+- 👍 Siguiendo a raja tabla buenas las practicas como desarrollador.<br>
 </br>
 
 <p align="center">
@@ -36,10 +36,10 @@
   <h2> Actualmente</h2>
 </div>
 
-- 🔭 Trabajando en: **Aplicaciones de escritorio con C# (.NET)**  
-- 🌱 Aprendiendo: **PHP (laravel), C#(.NET) y JAVA**  
-- 🗄️ Experiencia en: **python, javascript, html, css, mongodb, MySQL y git** 
-- 🖥️ Utilizando de manera activa los frameworks: **Tailwind (CSS), React y/o Angular (JavaScript), Django y/o Flask (Python)**
+- 🔭 Trabajando en: **Aplicaciones de conocimiento adquirido en el desarrollo de web**  
+- 🌱 Aprendiendo: **Laravel, DevOps y ciberseguridad**  
+- 🗄️ Experiencia en: **python, javascript, html, css, php, java, mongodb, MySQL, SQLlite y git** 
+- 🖥️ Utilizando de manera activa los frameworks: **Tailwind (CSS), React y/o Angular (JavaScript), Django y/o Flask (Python), Laravel/laravel modules (PHP)**
 
 <!--divider-->
 <div align="center">
@@ -52,10 +52,9 @@
   🔹 Organización del código basada en separación de responsabilidades. <br>
   🔹 Integración con base de datos para manejo de información.<br>
 
-
-  <div align="center">
+<div align="center">
   <a href="https://github.com/JuanManuelCM3331/Proyecto-Mv">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanManuelCM3331&repo=Proyecto-Mv&theme=tokyonight" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=juanmanuelcm3331&repo=proyecto-mv&theme=tokyonight" />
   </a>
 </div>
 
