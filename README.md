@@ -14,7 +14,7 @@
 
 <!--Sobre mi-->
 <div align="center">
-  <h2>🧠 Sobre mí</h2>
+  <h2> Sobre mí</h2>
   <img src="https://img.shields.io/badge/Focus-FrontEnd-darkblue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-Developing-darkgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Passion-VideoGames-darkred?style=for-the-badge"/>
@@ -33,7 +33,7 @@
 
 <!--divider-->
 <div align="center">
-  <h2>🚀 Actualmente</h2>
+  <h2> Actualmente</h2>
 </div>
 
 - 🔭 Trabajando en: **Aplicaciones de escritorio con C# (.NET)**  
@@ -43,7 +43,7 @@
 
 <!--divider-->
 <div align="center">
-  <h2>🚀 Proyectos Destacados</h2>
+  <h2>Proyectos Destacados</h2>
 </div>
 
 - ⚕️ **Proyecto-Mv**  
@@ -74,7 +74,7 @@
 
 <!--divider-->
 <div align="center">
-  <h2>⚡ Tecnologias que conozco y utilizo 👨🏻‍💻</h2>
+  <h2> Tecnologias que conozco y utilizo 👨🏻‍💻</h2>
 </div>
 
 <p align="center">
@@ -102,7 +102,7 @@
 
 <!--divider-->
 <div align="center">
-  <h2>🤝 Contacto</h2>
+  <h2>Contacto</h2>
 </div>
 
 <div align="center">
