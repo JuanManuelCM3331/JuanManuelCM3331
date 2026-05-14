@@ -74,7 +74,7 @@
 
 <!--divider-->
 <div align="center">
-  <h2> Tecnologias que conozco y utilizo 👨</h2>
+  <h2> Tecnologias que conozco y utilizo </h2>
 </div>
 
 <p align="center">
@@ -92,7 +92,7 @@
 
 <!--divider-->
 <div align="center">
-  <h2>📊 Estadísticas</h2>
+  <h2>Estadísticas</h2>
 </div>
 
 <p align="center">
