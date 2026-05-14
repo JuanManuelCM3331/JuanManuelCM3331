@@ -46,7 +46,7 @@
   <h2>Proyectos Destacados</h2>
 </div>
 
-- ⚕️ **Proyecto-Mv**  
+- ⚕️ **MediTrack**  
   🔹 Aplicación web estructurada bajo el patrón Modelo-Vista (MV).<br>
   🔹 Desarrollo con tecnologías web (HTML, CSS, JavaScript).<br> 
   🔹 Organización del código basada en separación de responsabilidades. <br>
