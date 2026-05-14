@@ -59,11 +59,11 @@
   </a>
 </div>
 
-- 🔧 Más proyectos en desarrollo...
+- Más proyectos en desarrollo...
 
 <!--divider-->
 <div align="center">
-  <h2>📈 Objetivos 2026</h2>
+  <h2>Objetivos 2026</h2>
 </div>
 
 - [ ] Aprender C# y .NET para el desarrollo de apliaciones.
@@ -74,7 +74,7 @@
 
 <!--divider-->
 <div align="center">
-  <h2> Tecnologias que conozco y utilizo 👨🏻‍💻</h2>
+  <h2> Tecnologias que conozco y utilizo 👨</h2>
 </div>
 
 <p align="center">
@@ -83,7 +83,7 @@
 
 <!--divider-->
 <div align="center">
-  <h2>💻 Lenguajes de Programacion ℹ️</h2>
+  <h2>Lenguajes de Programacion </h2>
 </div>
 
 <p align="center">
