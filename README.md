@@ -67,7 +67,7 @@
   🔹 Persistencia de datos local para manejo de información.<br>
 
 <div align="center">
-  <a href="https://github.com/JuanManuelCM3331/NewGestionAprendices">
+  <a href="https://github.com/JuanManuelCM3331/New-Gestion-Aprendices">
     <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=juanmanuelcm3331&repo=NewGestionAprendices&theme=tokyonight" />
   </a>
 </div>
