@@ -68,7 +68,7 @@
 
 <div align="center">
   <a href="https://github.com/JuanManuelCM3331/New-Gestion-Aprendices">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=juanmanuelcm3331&repo=NewGestionAprendices&theme=tokyonight" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=juanmanuelcm3331&repo=New-Gestion-Aprendices&theme=tokyonight" />
   </a>
 </div>
 <div>
