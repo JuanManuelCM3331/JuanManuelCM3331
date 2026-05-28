@@ -102,7 +102,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,css,html,js,php,mongodb,mysql,java,py&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=git,css,html,js,php,mongodb,mysql,cpp,java,py&perline=7"/>
 </p>
 
 <!--divider-->
