@@ -21,10 +21,10 @@
 </div>
 
 <br>
-- 🎯 Enfocado en mejorar como desarrollador web.<br>
-- 🛠️ Me gusta resolver problemas reales con software, automatizar tareas y aprender del campo.<br>
-- 📚 Constantemente aprendiendo nuevas tecnologias.<br>
-- 👍 Siguiendo a raja tabla buenas las practicas como desarrollador.<br>
+-  Enfocado en mejorar como desarrollador web.<br>
+-  Me gusta resolver problemas reales con software, automatizar tareas y aprender del campo.<br>
+-  Constantemente aprendiendo nuevas tecnologias.<br>
+-  Siguiendo a raja tabla buenas las practicas como desarrollador.<br>
 </br>
 
 <p align="center">
@@ -37,10 +37,10 @@
   <h2> Actualmente</h2>
 </div>
 
-- 🔭 Trabajando en: **Aplicaciones de conocimiento adquirido en el desarrollo de web**  
-- 🌱 Aprendiendo: **Laravel, DevOps y ciberseguridad**  
-- 🗄️ Experiencia en: **python, javascript, html, css, php, java, mongodb, MySQL, SQLlite y git** 
-- 🖥️ Utilizando de manera activa los frameworks: **Tailwind (CSS), React y/o Angular (JavaScript), Django y/o Flask (Python), Laravel/laravel modules (PHP)**
+-  Trabajando en: **Aplicaciones de conocimiento adquirido en el desarrollo de web**  
+-  Aprendiendo: **Laravel, DevOps y ciberseguridad**  
+-  Experiencia en: **python, javascript, html, css, php, java, mongodb, MySQL, SQLlite y git** 
+-  Utilizando de manera activa los frameworks: **Tailwind (CSS), React y/o Angular (JavaScript), Django y/o Flask (Python), Laravel/laravel modules (PHP)**
 
 <!--divider-->
 <div align="center">
