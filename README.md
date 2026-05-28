@@ -89,22 +89,11 @@
 
 <!--divider-->
 <div align="center">
-  <h2>Objetivos 2026</h2>
-</div>
-
-- [ ] Aprender C# y .NET para el desarrollo de apliaciones.
-- [ ] Aprender PHP y su framework: laravel, para el desarrollo web BackEnd.  
-- [ ] Aprender a integrar bases de datos a proyectos de distintos lenguajes.
-- [ ] Terminar mi proyecto MV.
-- [ ] Aprender a desarrollar con JAVA, incluyendo la POO y sus caracteristicas.
-
-<!--divider-->
-<div align="center">
   <h2> Tecnologias que conozco y utilizo </h2>
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,express,figma,github,nextjs,nodejs,react,tailwind,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=git,express,figma,github,nextjs,nodejs,react,docker,tailwind,vscode&perline=9" />
 </p>
 
 <!--divider-->
@@ -113,7 +102,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,css,html,js,mongodb,mysql,py&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=git,css,html,js,php,mongodb,mysql,java,py&perline=7"/>
 </p>
 
 <!--divider-->
