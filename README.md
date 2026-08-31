@@ -44,51 +44,6 @@
 
 <!--divider-->
 <div align="center">
-  <h2>Proyectos Destacados</h2>
-</div>
-
-- ⚕️ **MediTrack**  
-  🔹 Aplicación web estructurada bajo el patrón Modelo-Vista (MV).<br>
-  🔹 Desarrollo con tecnologías web (HTML, CSS, JavaScript).<br> 
-  🔹 Organización del código basada en separación de responsabilidades. <br>
-  🔹 Integración con base de datos para manejo de información.<br>
-
-<div align="center">
-  <a href="https://github.com/JuanManuelCM3331/Proyecto-Mv">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=juanmanuelcm3331&repo=proyecto-mv&theme=tokyonight" />
-  </a>
-</div>
-<div>
-  
-- 🧑‍🎓 **New Gestion Aprendices**  
-  🔹 Aplicación web monolitica adaptada a la agregacion de modulos. <br>
-  🔹 Desarrollo con tecnologías web (HTML, CSS, JavaScript, php y SQLlite).<br> 
-  🔹 Organización del código basada en separación de responsabilidades. <br>
-  🔹 Persistencia de datos local para manejo de información.<br>
-
-<div align="center">
-  <a href="https://github.com/JuanManuelCM3331/New-Gestion-Aprendices">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=juanmanuelcm3331&repo=New-Gestion-Aprendices&theme=tokyonight" />
-  </a>
-</div>
-<div>
-  
-- 🔨 **Youth-Employment-Bridge**  
-  🔹 Aplicación web bajo una arquitectura modular.
-  🔹 Desarrollo con tecnologías web (HTML, Tailwind CSS, JavaScript, PHP, Laravel, Laravel Modules.).<br> 
-  🔹 Organización del código basada en capas. <br>
-  🔹 Integración con base de datos para manejo de información.<br>
-
-<div align="center">
-  <a href="https://github.com/JuanManuelCM3331/Youth-Employment-Bridge">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=juanmanuelcm3331&repo=Youth-Employment-Bridge&theme=tokyonight" />
-  </a>
-</div>
-
-- Más proyectos en desarrollo...
-
-<!--divider-->
-<div align="center">
   <h2> Tecnologias que conozco y utilizo </h2>
 </div>
 
