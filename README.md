@@ -86,7 +86,7 @@
   <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="100" width="100" />
 </a>
 <p align="center">
-<a href="https://tuweb.com" target="blank">
+<a href="https://juanmanuelcm3331.github.io/CV-Landing/" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/909/909212.png" height="100" width="100" color=blue />
 </a>
 </p>
